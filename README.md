@@ -168,5 +168,45 @@
 |日付|2021/11/10|
 |担当|坂尻|
 |場所|G6|
+|資料|https://cha1ra.notion.site/kintone-2946eccbcc324b90aa3a29c1fe7fce76|
+|参加者|坂尻、太一、上村、かのまた、山下、高橋|
+
+### #16 Serverless on GCP
+
+|項目|内容|
+|--|--|
+|日付|2021/12/16|
+|担当|高橋|
+|場所|G6|
+|資料|https://hackmd.io/MbeVO6ZBTOqZe5lb5cHTxA?view|
+|参加者|高橋、坂尻、太一、かのまた、山下|
+
+### #1７ フロントエンド開発環境構築
+
+|項目|内容|
+|--|--|
+|日付|2022/01/19|
+|担当|山下|
+|場所|Online|
+|資料|https://gs-tech-learning.kibe.la/shared/entries/1559ab16-1d3d-4c1f-821f-9e7b21614385|
+|参加者|山下、高橋、坂尻、太一、上村、かのまた|
+
+### #18 機械学習とKaggle
+
+|項目|内容|
+|--|--|
+|日付|2022/02/16|
+|担当|かのまた|
+|場所|Online|
+|資料|https://kanomata.notion.site/Kaggle-f267b4914e5440e5959dbcd5c100be42　<br> https://kanomata.notion.site/Kaggle-68221ba6f0ea4ebba2a0b1e5d7a98c37|
+|参加者|かのまた、山下、高橋、坂尻、太一、上村|
+
+### #19 GitHub Actions　to ECS
+
+|項目|内容|
+|--|--|
+|日付|2022/03/16|
+|担当|上村|
+|場所|Online|
 |資料||
 |参加者||
