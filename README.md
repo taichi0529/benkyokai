@@ -118,7 +118,7 @@
 |日付|2021/06/30|
 |担当|太一|
 |場所|Online|
-|資料|https://asaichi-group.slack.com/files/U8W0WHGQK/F026N0GG82E/_____________________.pdf|
+|資料|[encription.pdf](./encription.pdf)|
 |参加者|上村、浅沼、太一|
 
 ### #11 Lighthouse
